@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>IBERISA</name>
+<icon src="img/bola.png" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="img/fondo.jpg" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="img/fondo.jpg" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="img/fondo.jpg" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="img/fondo.jpg" gap:platform="android" gap:density="xdpi" />
+<description>
+Catálogo móvil Iberisa
+</description>
+<preferences name="permissions" value="none" />
+<author href="http://www.iberisasl.com" email="iberisasl@iberisasl.com">
+Iberisa Asesoramiento Gestión y Servicios S.L.
+</author>
+
+</widget>
